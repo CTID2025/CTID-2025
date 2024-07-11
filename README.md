@@ -31,7 +31,7 @@ La longitud máxima del abstract será de 150 palabras.
 4.	Se notificará a los autores aquellos trabajos aceptados para su publicación.
 
 Fechas importantes:
-1.	Límite para la presentación de abstract de papers y posters: 12 de Julio 2024
+1.	Límite para la presentación de abstract de papers y posters: 15 de Julio 2024
 2.	Notificación a los autores de las propuestas aceptadas: 26 del Julio de 2024
 3.	Límite para la presentación de papers y posters: 23 de Agosto de2024
 4.	Notificación a los autores de aceptación o rechazo: 20 de Setiembre de 2024

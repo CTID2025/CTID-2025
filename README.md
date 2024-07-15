@@ -54,7 +54,6 @@
     <li><b>Formatos aceptados:</b> WORD o PDF</li>
 </ul>
 
-<p><b>Sitio web:</b> <a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/304017/20240226">https://www.boletinoficial.gob.ar/detalleAviso/primera/304017/20240226</a></p>
 <p><b>Contacto:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></p>
 
 

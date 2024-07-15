@@ -1,36 +1,60 @@
-CTID 2024: 
-Se invita a los autores en temas de Ciencia, Tecnología e Innovación de interés para la Defensa a publicar sus trabajos en CTID 2024.
-Áreas Generales de Interés:
-•	Simulación para entrenamiento
-•	Sistemas no tripulados
-•	Inteligencia Artificial
-•	Energía dirigida
-•	Transición energética
-•	Ciencias Exactas y Naturales
-•	Prospectiva
-Tipos de trabajos:
-•	Artículos científicos inéditos.
-•	Comunicaciones: sobre líneas de trabajos en curso en ciencia o tecnología.
-Modalidad de Presentación:
-•	Paper: los autores enviarán un "paper" según el formato indicado.
-•	Poster: los autores enviarán un "short paper" descriptivo y el poster correspondiente.
-Proceso de Presentación:
-1.	Enviar un abstract: Los autores deberán enviar un "abstract" del paper o poster que proponen publicar. La longitud máxima del abstract será de 150 palabras. Fecha límite: 18 de Julio de 2024
-2.	Notificación de aceptación: Se notificará a los autores aquellas propuestas de paper o poster que sean consideradas de interés por el CTID 2024; y serán invitados a enviar el trabajo completo para su evaluación. Fecha de notificación: 26 de Julio de 2024
-3.	Envío de trabajos completos: Los autores invitados enviarán los trabajos completos para su evaluación. Fecha límite: 23 de agosto de 2024
-4.	Notificación final: Se notificará a los autores aquellos trabajos aceptados para su publicación. Fecha de notificación: 20 de Setiembre de 2024
-Instrucciones para los autores:
-Formato del Paper:
-•	Idioma: español o inglés
-•	Máximo 10 páginas sin numerar.
-•	Sin encabezado ni pie de página.
-•	Enviar a: Ctid2024@defensa.gob.ar
-•	Formatos aceptados: WORD o PDF
-Formato del Short Paper de los Posters:
-•	Idioma: Español o Inglés
-•	Máximo 3 páginas sin numerar.
-•	Sin encabezado ni pie de página.
-•	Enviar a: Ctid2024@defensa.gob.ar
-•	Formatos aceptados: WORD o PDF
+# CTID 2024: Llamado a autores
+
+<p>Invitación a publicar trabajos en Ciencia, Tecnología e Innovación para la Defensa</p>
+<p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2024.</p>
+
+<h2>Áreas de interés:</h2>
+<ul>
+    <li>Simulación para entrenamiento</li>
+    <li>Sistemas no tripulados</li>
+    <li>Inteligencia Artificial</li>
+    <li>Energía dirigida</li>
+    <li>Transición energética</li>
+    <li>Ciencias Exactas y Naturales</li>
+    <li>Prospectiva</li>
+</ul>
+
+<h2>Tipos de trabajos:</h2>
+<ul>
+    <li><b>Artículos científicos inéditos:</b> Investigaciones originales y completas que aporten nuevo conocimiento al campo de la CTI para la Defensa.</li>
+    <li><b>Comunicaciones:</b> Trabajos en curso que presenten resultados preliminares o avances significativos en investigaciones de CTI para la Defensa.</li>
+</ul>
+
+<h2>Modalidades de presentación:</h2>
+<ul>
+    <li><b>Paper:</b> Los autores enviarán un artículo completo siguiendo las pautas de formato establecidas.</li>
+    <li><b>Poster:</b> Los autores enviarán un resumen descriptivo (short paper) y el poster correspondiente.</li>
+</ul>
+
+<h2>Proceso de presentación:</h2>
+<ol>
+    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b> 18 de julio de 2024</li>
+    <li><b>Notificación de aceptación:</b> Se notificará a los autores las propuestas de paper o poster que sean consideradas de interés para el CTID 2024. Los autores seleccionados serán invitados a enviar el trabajo completo para su evaluación. <b>Fecha de notificación:</b> 26 de julio de 2024</li>
+    <li><b>Envío de trabajos completos:</b> Los autores invitados enviarán sus trabajos completos para su evaluación por parte del comité científico del congreso. <b>Fecha límite:</b> 23 de agosto de 2024</li>
+    <li><b>Notificación final:</b> Se notificará a los autores la aceptación o rechazo de sus trabajos para su publicación. <b>Fecha de notificación:</b> 20 de septiembre de 2024</li>
+</ol>
+
+<h2>Instrucciones para los autores:</h2>
+
+<h3>Formato del Paper:</h3>
+<ul>
+    <li><b>Idioma:</b> Español o Inglés</li>
+    <li><b>Máximo:</b> 10 páginas sin numerar</li>
+    <li>Sin encabezado ni pie de página</li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Formatos aceptados:</b> WORD o PDF</li>
+</ul>
+
+<h3>Formato del Short Paper para Posters:</h3>
+<ul>
+    <li><b>Idioma:</b> Español o Inglés</li>
+    <li><b>Máximo:</b> 3 páginas sin numerar</li>
+    <li>Sin encabezado ni pie de página</li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Formatos aceptados:</b> WORD o PDF</li>
+</ul>
+
+<p><b>Sitio web:</b> <a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/304017/20240226">https://www.boletinoficial.gob.ar/detalleAviso/primera/304017/20240226</a></p>
+<p><b>Contacto:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></p>
 
 

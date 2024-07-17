@@ -11,7 +11,7 @@
     <li>Energía dirigida</li>
     <li>Transición energética</li>
     <li>Ciencias Exactas y Naturales</li>
-    <li>Prospectiva</li>
+    
 </ul>
 
 <h2>Tipos de trabajos:</h2>

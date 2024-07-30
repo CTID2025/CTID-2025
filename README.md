@@ -4,6 +4,13 @@
 <p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2024.</p>
    <h1>DÓNDE</h1>
         <p>Centro Cultural de la Ciencia (C3), Godoy Cruz 2270, CABA<br>
+   <section>
+        <h1>CUÁNDO</h1>
+        <p>Una jornada y media:<br>
+        Jueves 3 de octubre de 2024, de 9 a 17 hs.<br>
+        Viernes 4 de octubre de 2024, de 9 a 13 hs.</p>
+    </section>
+           
 <h2>Áreas de interés:</h2>
 <ul>
     <li>Simulación para entrenamiento</li>

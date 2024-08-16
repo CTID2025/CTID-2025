@@ -7,8 +7,8 @@
    <section>
         <h1>CUÁNDO</h1>
         <p>Una jornada y media:<br>
-        Jueves 3 de octubre de 2024, de 9 a 17 hs.<br>
-        Viernes 4 de octubre de 2024, de 9 a 13 hs.</p>
+        Miecoles 2 de octubre de 2024, de 9 a 17 hs.<br>
+        Jueves 3 de octubre de 2024, de 9 a 13 hs.</p>
     </section>
            
 <h2>Áreas de interés:</h2>

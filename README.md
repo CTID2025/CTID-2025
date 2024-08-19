@@ -18,8 +18,7 @@
     <li>Inteligencia Artificial</li>
     <li>Energía dirigida</li>
     <li>Transición energética</li>
-    <li>Ciencias Exactas y Naturales</li>
-    <li>Prospectiva tecnológica</li>
+    <li>Ciencias Exactas y Naturales</li>   
 </ul>
 
 <h2>Tipos de trabajos:</h2>

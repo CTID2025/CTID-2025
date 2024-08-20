@@ -1,16 +1,8 @@
-# CTID 2024: Llamado a autores
+
 <img> ![Header - Footer pagina](https://github.com/user-attachments/assets/07675a2b-f4b8-4575-a29c-8764cc371eeb)
                    <img>
 <p>Invitación a publicar trabajos en Ciencia, Tecnología e Innovación para la Defensa</p>
 <p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2024.</p>
-   <h1>DÓNDE</h1>
-        <p>Centro Cultural de la Ciencia (C3), Godoy Cruz 2270, CABA<br>
-   <section>
-        <h1>CUÁNDO</h1>
-        <p>Una jornada y media:<br>
-        Miecoles 2 de octubre de 2024, de 9 a 17 hs.<br>
-        Jueves 3 de octubre de 2024, de 9 a 13 hs.</p>
-    </section>
            
 <h2>Áreas de interés:</h2>
 <ul>

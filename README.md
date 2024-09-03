@@ -1,5 +1,6 @@
 
-<img> ![Header - Footer pagina](https://github.com/user-attachments/assets/07675a2b-f4b8-4575-a29c-8764cc371eeb)
+<img> ![WhatsApp Image 2024-09-03 at 15 49 02](https://github.com/user-attachments/assets/28e2c248-5ed0-413b-a76e-8f46b1179a8a)
+
                    <img>
 <br>
 <p align="center"> <strong> EL PERIODO DE INSCRIPCIÓN HA FINALIZADO </strong> </p>

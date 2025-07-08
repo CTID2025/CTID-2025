@@ -7,15 +7,17 @@
            
 <h2>Áreas de interés:</h2>
 <ul>
-<li>•	código  1 Simulación para instrucción y adiestramiento </li>
-<li>•	código  2 Sistemas no tripulados/robótica</li>
-<li>•	código  3 Inteligencia Artificial</li>
-<li>•	código  4 Energía (energía dirigida, transición energética)</li>
-<li>•	código  5 Sistemas de armas</li>
-<li>•	código  6 Espacial/satelital</li>
-<li>•	código  7 Ciberdefensa</li>
-
-
+<li>	código  1 Simulación para instrucción y adiestramiento </li>
+<li>	código  2 Sistemas no tripulados (UAVs, USVs, UGVs)</li>
+<li>	código  3 Inteligencia Artificial y seguridad informatica</li>
+<li>	código  4 Energía (energía dirigida, transición energética y almacenamiento)</li>
+<li>	código  5 Sistemas de armas y modernización de medios</li>
+<li>	código  6 Tecnologías Espaciales y satelitales</li>
+<li>	código  7 Ciberdefensa y seguridad informatica</li>
+<li>  código  8 Tecnología química y biológica</li>
+<li>  código  9 Tecnología meteorologica</li>
+<li>  Código 10 Tecnología geoespacial</li>
+<li>  Código 11 Tecnología de materiales</li>
 </ul>
 
 <h2>Tipos de trabajos:</h2>

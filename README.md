@@ -47,7 +47,7 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 10 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> WORD o PDF</li>
 </ul>
 
@@ -56,10 +56,10 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 3 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> WORD o PDF</li>
 </ul>
 
-<p><b>Contacto:</b> <a href="mailto:Ctid2024@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></p>
+<p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></p>
 
 

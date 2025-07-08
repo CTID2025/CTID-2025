@@ -1,5 +1,4 @@
 
-<img> ![](https://github.com/user-attachments/assets/28e2c248-5ed0-413b-a76e-8f46b1179a8a) <img>
 <br>
 <p align="center"> <strong> inscripcion abierta </strong> </p>
                    <br>

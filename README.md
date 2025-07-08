@@ -1,19 +1,19 @@
 
 <br>
-<p align="center"> <strong> inscripcion abierta </strong> </p>
+<p align="center"> <strong> inscripción abierta </strong> </p>
                    <br>
 <p>Invitación a publicar trabajos en Ciencia, Tecnología e Innovación para la Defensa</p>
 <p>Se invita a investigadores y profesionales en temáticas de Ciencia, Tecnología e Innovación (CTI) de interés para la Defensa a enviar sus trabajos para su publicación en el marco del Congreso CTID 2025.</p>
            
 <h2>Áreas de interés:</h2>
 <ul>
-<li>codigo 1 Simulación para instrucción y adiestramiento </li>
-<li>codigo 2 Sistemas no tripulados/robótica</li>
-<li>codigo 3 Inteligencia Artificial</li>
-<li>codigo 4 Energía (energía dirigida, transición energética)</li>
-<li>codigo 5 Sistemas de armas</li>
-<li>codigo 6 Espacial/satelital</li>
-<li>codigo 7 Ciberdefensa</li>
+<li>•	código  1 Simulación para instrucción y adiestramiento </li>
+<li>•	código  2 Sistemas no tripulados/robótica</li>
+<li>•	código  3 Inteligencia Artificial</li>
+<li>•	código  4 Energía (energía dirigida, transición energética)</li>
+<li>•	código  5 Sistemas de armas</li>
+<li>•	código  6 Espacial/satelital</li>
+<li>•	código  7 Ciberdefensa</li>
 
 
 </ul>
@@ -32,7 +32,7 @@
 
 <h2>Proceso de presentación:</h2>
 <ol>
-    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b> 20 de julio de 2025 respetar formato de titulo indicado apellido_institucion_codigo de area tematica</li>
+    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b><b> 20 de julio de 2025 respetar formato de titulo indicado apellido_institucion_codigo de area tematica</b></li>
     <li><b>Notificación de aceptación:</b> Se notificará a los autores las propuestas de paper o poster que sean consideradas de interés para el CTID 2025. Los autores seleccionados serán invitados a enviar el trabajo completo para su evaluación. <b>Fecha de notificación:</b> 30 de julio de 2025</li>
     <li><b>Envío de trabajos completos:</b> Los autores invitados enviarán sus trabajos completos para su evaluación por parte del comité científico del congreso. <b>Fecha límite:</b> 30 de agosto de 2025</li>
     <li><b>Notificación final:</b> Se notificará a los autores la aceptación o rechazo de sus trabajos para su publicación. <b>Fecha de notificación:</b> 20 de septiembre de 2025</li>

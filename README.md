@@ -8,14 +8,13 @@
            
 <h2>Áreas de interés:</h2>
 <ul>
-<li> Simulación para instrucción y adiestramiento </li>
-<li>Sistemas no tripulados/robótica</li>
-<li>Inteligencia Artificial</li>
-<li>Energía (energía dirigida, transición energética)</li>
-<li>Sistemas de armas</li>
-<li>Espacial/satelital</li>
-<li>Ciberdefensa</li>
-
+<li>codigo 1 Simulación para instrucción y adiestramiento </li>
+<li>codigo 2 Sistemas no tripulados/robótica</li>
+<li>codigo 3 Inteligencia Artificial</li>
+<li>codigo 4 Energía (energía dirigida, transición energética)</li>
+<li>codigo 5 Sistemas de armas</li>
+<li>codigo 6 Espacial/satelital</li>
+<li>codigo 7 Ciberdefensa</li>
 
 
 </ul>
@@ -34,7 +33,7 @@
 
 <h2>Proceso de presentación:</h2>
 <ol>
-    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b> 20 de julio de 2025 respetar formato de titulo indicado en documento adjunto</li>
+    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b> 20 de julio de 2025 respetar formato de titulo indicado apellido_institucion_codigo de area tematica</li>
     <li><b>Notificación de aceptación:</b> Se notificará a los autores las propuestas de paper o poster que sean consideradas de interés para el CTID 2025. Los autores seleccionados serán invitados a enviar el trabajo completo para su evaluación. <b>Fecha de notificación:</b> 30 de julio de 2025</li>
     <li><b>Envío de trabajos completos:</b> Los autores invitados enviarán sus trabajos completos para su evaluación por parte del comité científico del congreso. <b>Fecha límite:</b> 30 de agosto de 2025</li>
     <li><b>Notificación final:</b> Se notificará a los autores la aceptación o rechazo de sus trabajos para su publicación. <b>Fecha de notificación:</b> 20 de septiembre de 2025</li>
@@ -47,7 +46,7 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 10 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> WORD o PDF</li>
 </ul>
 
@@ -56,10 +55,10 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 3 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></li>
+    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> WORD o PDF</li>
 </ul>
 
-<p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid2024@defensa.gob.ar</a></p>
+<p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></p>
 
 

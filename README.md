@@ -1,4 +1,4 @@
-
+<img src=C:\Users\marco.lezcano\Desktop\image1.png(images/logo.png) 
 <br>
 <p align="center"> <strong> Inscripción Abierta </strong> </p>
                    <br>

@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/ctid-banner.png" alt="CTID - Congreso de Ciencia, Tecnología e Innovación para la Defensa Nacional">
-</p>
+
+<img width="1144" height="333" alt="image1" src="https://github.com/user-attachments/assets/3f6e6deb-baec-41da-a644-3611c2f35f32" />
 
 <br>
 <p align="center"> <strong> Inscripción Abierta </strong> </p>

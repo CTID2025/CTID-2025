@@ -14,10 +14,10 @@
 <li>	código  05 Sistemas de armas y modernización de medios</li>
 <li>	código  06 Tecnologías Espaciales y satelitales</li>
 <li>	código  07 Ciberdefensa y seguridad informatica</li>
-<li>  código  08 Tecnología química y biológica</li>
-<li>  código  09 Tecnología meteorologica</li>
-<li>  Código 10 Tecnología geoespacial</li>
-<li>  Código 11 Tecnología de materiales</li>
+<li>  código  08 Tecnología de materiales </li>
+<li>  código  09 Tecnología quimica y biologica</li>
+<li>  Código  10 Tecnología meteorologica</li>
+<li>  Código  11 Tecnología geoespacial</li>
 </ul>
 
 <h2>Tipos de trabajos:</h2>

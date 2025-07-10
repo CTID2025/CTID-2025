@@ -1,4 +1,7 @@
-<img src=C:\Users\marco.lezcano\Desktop\image1.png(images/logo.png) 
+<p align="center">
+  <img src="images/ctid-banner.png" alt="CTID - Congreso de Ciencia, Tecnología e Innovación para la Defensa Nacional">
+</p>
+
 <br>
 <p align="center"> <strong> Inscripción Abierta </strong> </p>
                    <br>

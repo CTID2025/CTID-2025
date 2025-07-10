@@ -12,8 +12,8 @@
 <li>	código  03 Inteligencia Artificial y seguridad informatica</li>
 <li>	código  04 Energía (energía dirigida, transición energética y almacenamiento)</li>
 <li>	código  05 Sistemas de armas y modernización de medios</li>
-<li>	código  06 Tecnologías Espaciales y satelitales</li>
-<li>	código  07 Ciberdefensa y seguridad informatica</li>
+<li>	código  06 Ciberdefensa y seguridad informática </li>
+<li>	código  07 Tecnologías Espaciales y satelitales </li>
 <li>  código  08 Tecnología de materiales </li>
 <li>  código  09 Tecnología quimica y biologica</li>
 <li>  Código  10 Tecnología meteorologica</li>

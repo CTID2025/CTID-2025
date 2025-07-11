@@ -1,5 +1,6 @@
 
-<img width="1144" height="333" alt="image1" src="https://github.com/user-attachments/assets/3f6e6deb-baec-41da-a644-3611c2f35f32" />
+
+<img width="142" height="206" alt="logo ctid2025-vertical azul" src="https://github.com/user-attachments/assets/9efdf572-fe39-46cf-9e99-f08ba2aa4909" />
 
 <br>
 <p align="center"> <strong> Inscripción Abierta </strong> </p>

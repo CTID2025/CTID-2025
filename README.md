@@ -40,10 +40,10 @@
 
 <h2>Proceso de presentación:</h2>
 <ol>
-    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b><b> 20 de julio de 2025 respetar formato de titulo indicado: “apellido y nombre_institución_codigo de área de interés” (ejemplo: Pérez Diego_citedef_01) </b></li>
-    <li><b>Notificación de aceptación:</b> Se notificará a los autores las propuestas de paper o poster que sean consideradas de interés para el CTID 2025. Los autores seleccionados serán invitados a enviar el trabajo completo para su evaluación. <b>Fecha de notificación:</b> 30 de julio de 2025</li>
-    <li><b>Envío de trabajos completos:</b> Los autores invitados enviarán sus trabajos completos para su evaluación por parte del comité científico del congreso. <b>Fecha límite:</b> 30 de agosto de 2025</li>
-    <li><b>Notificación final:</b> Se notificará a los autores la aceptación o rechazo de sus trabajos para su publicación. <b>Fecha de notificación:</b> 20 de septiembre de 2025</li>
+    <li><b>Envío de abstract:</b> Los autores deben enviar un resumen (abstract) de su paper o poster, con una extensión máxima de 150 palabras. <b>Fecha límite:</b><b> 27 de julio de 2025 respetar formato de titulo indicado: “apellido y nombre_institución_codigo de área de interés” (ejemplo: Pérez Diego_citedef_01) </b></li>
+    <li><b>Notificación de aceptación:</b> Se notificará a los autores las propuestas de paper o poster que sean consideradas de interés para el CTID 2025. Los autores seleccionados serán invitados a enviar el trabajo completo para su evaluación. <b>Fecha de notificación:</b> 5 de agosto de 2025</li>
+    <li><b>Envío de trabajos completos:</b> Los autores invitados enviarán sus trabajos completos para su evaluación por parte del comité científico del congreso. <b>Fecha límite:</b> 1 de Septiembre de 2025</li>
+    <li><b>Notificación final:</b> Se notificará a los autores la aceptación o rechazo de sus trabajos para su publicación. <b>Fecha de notificación:</b> 25 de septiembre de 2025</li>
 </ol>
 
 <h2>Instrucciones para los autores:</h2>
@@ -51,7 +51,7 @@
 <h3>Formato del Paper:</h3>
 <ul>
     <li><b>Idioma:</b> Español o Inglés</li>
-    <li><b>Máximo:</b> 10 páginas sin numerar</li>
+    <li><b>Máximo:</b> 15 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
     <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> PDF</li>
@@ -64,6 +64,7 @@
     <li>Sin encabezado ni pie de página</li>
     <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> PDF</li>
+  <li><b>entrega de material: se reciben material digital de exponentes y poster para su expocision. (fecha limite de entrega 6/10/2025)</li>
 </ul>
 
 <p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></p>

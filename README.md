@@ -64,7 +64,7 @@
     <li>Sin encabezado ni pie de página</li>
     <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> PDF</li>
-  <li><b>entrega de material: se reciben material digital de exponentes y poster para su expocision. (fecha limite de entrega 6/10/2025)</li>
+  <li><b>entrega de material: se recibe material digital de exponentes y poster para su expocision. (fecha limite de entrega 6/10/2025)</li>
 </ul>
 
 <p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></p>

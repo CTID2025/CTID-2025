@@ -35,7 +35,10 @@
 <h2>(Debe seleccionar una de las dos opciones)</h2>
 <ul>
     <li><b>Paper:</b> Los autores enviarán un artículo completo siguiendo las pautas de formato establecidas.</li>
+  <li><b>deberán preparar una presentación para acompañar su exposición</li>
+
     <li><b>Poster:</b> Los autores enviarán un resumen descriptivo (short paper) y el poster correspondiente.</li>
+    <li><b>el resumen descriptivo tiene que seguir las pautas de formato establecidas para los artículos completos</li>
 </ul>
 
 <h2>Proceso de presentación:</h2>
@@ -53,8 +56,8 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 15 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
-    <li><b>Formatos aceptados:</b> PDF</li>
+    <li><b>Enviar a:</b> <a href="mailto:ctid@defensa.gob.ar">ctid@defensa.gob.ar</a></li>
+    <li><b>Formatos aceptados:</b> PDF respetando la tipografía y formato establecidos en las plantillas. </li>
 </ul>
 
 <h3>Formato del Short Paper para Posters:</h3>
@@ -62,11 +65,11 @@
     <li><b>Idioma:</b> Español o Inglés</li>
     <li><b>Máximo:</b> 3 páginas sin numerar</li>
     <li>Sin encabezado ni pie de página</li>
-    <li><b>Enviar a:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></li>
+    <li><b>Enviar a:</b> <a href="mailto:ctid@defensa.gob.ar">ctid@defensa.gob.ar</a></li>
     <li><b>Formatos aceptados:</b> PDF</li>
   <li><b>entrega de material: se recibe material digital de exponentes y poster para su exposicion. (fecha limite de entrega 6/10/2025)</li>
 </ul>
 
-<p><b>Contacto:</b> <a href="mailto:Ctid@defensa.gob.ar">Ctid@defensa.gob.ar</a></p>
+<p><b>Contacto:</b> <a href="mailto:ctid@defensa.gob.ar">ctid@defensa.gob.ar</a></p>
 
 

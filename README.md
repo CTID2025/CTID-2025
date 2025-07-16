@@ -36,10 +36,9 @@
 <ul>
    
 <li><b>Paper:</b>Los autores enviarán un artículo completo siguiendo las pautas de formato establecidas</li>
-       <li><b>deberán preparar una presentación para acompañar su exposición</li>
-    
+   <li><b>deberán preparar una presentación para acompañar su exposición</li>
       <li><b>Poster:</b> Los autores enviarán un resumen descriptivo (short paper) y el poster correspondiente</li>
-      <li><b>el resumen descriptivo tiene que seguir las pautas de formato establecidas para los artículos completos</li>
+         <li><b>el resumen descriptivo tiene que seguir las pautas de formato establecidas para los artículos completos</li>
 </ul>
 
 <h2>Proceso de presentación:</h2>

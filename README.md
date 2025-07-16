@@ -90,7 +90,7 @@
   <li><strong>Máximo:</strong> 3 páginas sin numerar</li>
   <li>Sin encabezado ni pie de página</li>
   <li><strong>Enviar a:</strong> <a href="mailto:ctid@defensa.gob.ar">ctid@defensa.gob.ar</a></li>
-  <li><strong>Formatos aceptados:</strong> PDF</li>
+  <li><strong>Formatos aceptados:</strong>PDF respetando la tipografía y formato establecidos en las plantillas.</li>
   <li><strong>Entrega de material:</strong> Se recibe material digital de exponentes y poster para su exposición (fecha límite de entrega: 6/10/2025)</li>
 </ul>
 

@@ -3,7 +3,7 @@
 <img width="350" height="90" alt="logo ctid2025-azul" src="https://github.com/user-attachments/assets/bc7142c7-8728-4b56-9302-046f407d130f" />
 
 <p align="center"> 
-  <strong>INSCRIPCIÓN ABIERTA</strong> 
+  <strong> PRORROGA PARA ENTREGAS DE ABSTRACT Y SHORT PAPER/ 5 de agosto de 2025 hasta las 12:00 hs  </strong> 
 </p>
 
 <p>📢 Invitación a publicar trabajos en Ciencia, Tecnología e Innovación para la Defensa</p>
@@ -53,12 +53,12 @@
     <ul>
       <li>Extensión máxima: 150 palabras</li>
       <li><strong>Formato del título:</strong> "apellido y nombre_institución_código de área de interés" (ejemplo: Pérez Diego_citedef_01)</li>
-      <li><strong>Fecha límite:</strong> 27 de julio de 2025</li>
+      <li><strong>Fecha límite:</strong>Fecha límite: 5 de agosto de 2025 hasta las 12:00 hs </li>
     </ul>
   </li>
   <li><strong>Notificación de aceptación:</strong> 
     <ul>
-      <li>Fecha de notificación: 5 de agosto de 2025</li>
+      <li>Fecha de notificación: 12 de agosto de 2025 </li>
     </ul>
   </li>
   <li><strong>Envío de trabajos completos:</strong> 
